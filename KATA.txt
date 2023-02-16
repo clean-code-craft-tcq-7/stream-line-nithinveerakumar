@@ -1,0 +1,10 @@
+simulates the BMS charging/Battery parameter readings , format the reading in CSV format and print in console.
+
+Use Random number generator to stimulate the charging/Battery parameter readings
+
+Then format the parameter is CSV format.
+Keep Parameter name as a first value in the CSV output 
+Example for sensor reading output
+    --> "Temperature,12,34,45,23"
+    --> "SOC,1,3,4"
+
